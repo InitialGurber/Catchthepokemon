@@ -76,7 +76,7 @@ let pokeball
 
 function preload() {
 
-  z = loadImage("just in case yk.png")
+  z = loadImage("Bulbasaur.png")
   mclovin = loadImage("mclovin.png")
   neutral = loadImage("neutral.png")
   happy = loadImage("happy.png")
