@@ -75,7 +75,6 @@ let livid
 let pokeball
 
 function preload() {
-
   z = loadImage("Bulbasaur.png")
   mclovin = loadImage("mclovin.png")
   neutral = loadImage("neutral.png")
