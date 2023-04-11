@@ -503,7 +503,7 @@ function draw() {
 	//This is where the player can choose their ending. The "catch" button adds +1 to the counter, the "attack" button makes the counter equal to 50.
 	//The attack ending is from 50 onward, 
 	
-	in case it affects the main "good" ending. And the catch is from 22 to 40.
+	//in case it affects the main "good" ending. And the catch is from 22 to 40.
 	if (counter == 21) {
 		button.position(-1000, 510);
 		stroke(161, 34, 34);
