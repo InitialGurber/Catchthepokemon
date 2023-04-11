@@ -62,6 +62,7 @@ let word2 = 0
 let button
 let button2 
 let button3
+let counter = 0
 let key = counter++
 let mclovin
 let ow = 220
@@ -132,11 +133,8 @@ function keyPressed() {
     counter = 50
 }
 
-function yay(){
-  counter++
-}
+from origin 'null' has been blocked by CORS policy
 
-let counter = 0
 
 function draw() {
 
