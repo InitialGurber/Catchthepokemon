@@ -82,7 +82,7 @@ let pokeball;
 
 function preload() {
 //these are the images i used, i made them all except "mclovin"
-	z = loadImage("Bulbasaur.png");
+	z = loadImage("bulbasaur.png");
 	mclovin = loadImage("mclovin.png");
 	neutral = loadImage("neutral.png");
 	happy = loadImage("happy.png");
