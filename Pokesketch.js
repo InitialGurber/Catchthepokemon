@@ -133,8 +133,6 @@ function keyPressed() {
     counter = 50
 }
 
-from origin 'null' has been blocked by CORS policy
-
 
 function draw() {
 
